@@ -51,21 +51,15 @@ A calculated measured Key Performance Indicator (KPI) is a quantifiable metric t
 1. **Hiring Measures**
 - Total no of hire
 `= CALCULATE(COUNT('Pharma Group AG'[New hire FY20?]),'Pharma Group AG'[New hire FY20?]="Y")`
- - Percentage of Total hire
- `= DIVIDE([count_of_hire],COUNT('Pharma Group AG'[New hire FY20?]))`
- 
 
-- Number of Female hire 
+ - Number of Female hire 
 `= CALCULATE(COUNT('Pharma Group AG'[New hire FY20?]),'Pharma Group AG'[New hire FY20?]="Y",'Pharma Group AG'[Gender]="Female")`
- - Percentage of Female hire 
- `= DIVIDE([count_of_female_hire],[count_of_hire])`
-
 
 - Number of Male hire 
 `= CALCULATE(COUNT('Pharma Group AG'[New hire FY20?]),'Pharma Group AG'[New hire FY20?]="Y",'Pharma Group AG'[Gender]="Male")`
- - Percentage of Male hire
- `= DIVIDE([count_of_male_hire],[count_of_hire])`
 
+> [!NOTE]
+> OTHER MEASURES INCLUDE PERCENTAGE VALUE OF THESE KPIs
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 2. **Promotion Measures**
