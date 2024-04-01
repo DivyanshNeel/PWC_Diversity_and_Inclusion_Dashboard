@@ -46,6 +46,8 @@ They’re reaching out to help them in the analysis and create visualizations to
 KPIs, or Key Performance Indicators, are like goal markers for businesses. They're specific, measurable values that track progress towards achieving important objectives. They are like a dashboard that shows how well a company is doing on its journey to success. By following these KPIs, businesses can make smart decisions based on real data and identify areas where they can improve.
 
 ### Calculated Measured KPIs
+A calculated measured Key Performance Indicator (KPI) is a quantifiable metric that is derived through specific formula to assess performance in a systematic manner. It involves the strategic computation of data points to gauge progress or success against predefined objectives or benchmarks.
+
 1. **Hiring Measures**
 - Total no of hire
 `= CALCULATE(COUNT('Pharma Group AG'[New hire FY20?]),'Pharma Group AG'[New hire FY20?]="Y")`
@@ -86,7 +88,7 @@ KPIs, or Key Performance Indicators, are like goal markers for businesses. They'
  
 
 > [!IMPORTANT]
-> THESE KPIs BELONGS **FY21**, WE CAN DO THE SAME FY20 .
+> THESE KPIs BELONGS TO **FY21**, WE CAN DO THE SAME FY20 .
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
