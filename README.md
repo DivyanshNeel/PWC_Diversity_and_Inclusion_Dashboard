@@ -33,48 +33,40 @@ KPIs, or Key Performance Indicators, are like goal markers for businesses. They'
 1. **Hiring Measures**
 - Total no of hire
 `= CALCULATE(COUNT('Pharma Group AG'[New hire FY20?]),'Pharma Group AG'[New hire FY20?]="Y")`
- -
  - Percentage of Total hire
  `= DIVIDE([count_of_hire],COUNT('Pharma Group AG'[New hire FY20?]))`
- -
+ 
 
 - Number of Female hire 
 `= CALCULATE(COUNT('Pharma Group AG'[New hire FY20?]),'Pharma Group AG'[New hire FY20?]="Y",'Pharma Group AG'[Gender]="Female")`
- -
-
  - Percentage of Female hire 
  `= DIVIDE([count_of_female_hire],[count_of_hire])`
- -
+
 
 - Number of Male hire 
 `= CALCULATE(COUNT('Pharma Group AG'[New hire FY20?]),'Pharma Group AG'[New hire FY20?]="Y",'Pharma Group AG'[Gender]="Male")`
- -
  - Percentage of Male hire
  `= DIVIDE([count_of_male_hire],[count_of_hire])`
- -
 
 
 2. **Promotion Measures**
 - Total no of Promotions
 `= CALCULATE(COUNT('Pharma Group AG'[Promotion in FY21?]),'Pharma Group AG'[Promotion in FY21?]="Yes")`
- -
  - Percentage of Total Promotion
  `= DIVIDE([count_employee_promoted_FY21],COUNT('Pharma Group AG'[Promotion in FY21?]))`
- -
+
 
  - Number of Female Promotions
 `= CALCULATE(COUNT('Pharma Group AG'[Promotion in FY21?]),'Pharma Group AG'[Promotion in FY21?]="Yes",'Pharma Group AG'[Gender]="Female")`
- -
  - Percentage of Female Promotion
  `= DIVIDE([count_female_employee_promoted_FY21],[count_employee_promoted_FY21])`
- -
+ 
 
-  - Number of Male Promotions
+ - Number of Male Promotions
 `= CALCULATE(COUNT('Pharma Group AG'[Promotion in FY21?]),'Pharma Group AG'[Promotion in FY21?]="Yes",'Pharma Group AG'[Gender]="Male")`
- -
  - Percentage of Male Promotion
  `= DIVIDE([count_male_employee_promoted_FY21],[count_employee_promoted_FY21])`
- -
+ 
 
 > [!IMPORTANT]
 > Key information users need to know to achieve their goal.
