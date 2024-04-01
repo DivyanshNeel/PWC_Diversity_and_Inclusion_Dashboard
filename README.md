@@ -5,9 +5,21 @@
 - [Discription](#Discription)
 - [Project Background](#Project-Background)
 - [Key Skills](#Key-Skills)
+- [Key Performance Indicators](#Key-Performance-Indicators)
+  - [Calculated Measured KPIs](#Calculated-Measured-KPIs)
+    - [Hiring Measures](#Hiring_Measures)
+    - [Promotion Measures](#Promotion-Measures)
+    - [Performance and Turnover Measures](#Performance-and-Turnover_Measures)
+  
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Discription
 This project tackled the challenge of improving gender balance in a telecom client's executive management. I leveraged  **data analysis techniques**  to assess their diversity and inclusion efforts. This involved **creating a Power BI dashboard** to visualize key metrics and **designing KPIs**. The project aimed to provide data-driven insights to facilitate informed decision-making.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Project Background
 Human Resources at a telecom company is highly into diversity and inclusion. They’ve been working hard to improve gender balance at the executive management level, but they’re not seeing any progress.
@@ -15,6 +27,8 @@ Human Resources at a telecom company is highly into diversity and inclusion. The
 They’re reaching out to help them in the analysis and create visualizations to -
 - Represent HR data, particularly focusing on gender-related KPIs
 - Identify and discuss potential root causes for the slow progress in achieving gender balance at the executive management level.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Key Skills
 - Data Cleaning
@@ -25,6 +39,8 @@ They’re reaching out to help them in the analysis and create visualizations to
 > Performed data analysis by discovering pattern and trends in the report.
 - Data Visualization
 > Created visualizations by adding different visuals like bar chart, time-series chart, slicers, card visual and gauge visual.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Key Performance Indicators
 KPIs, or Key Performance Indicators, are like goal markers for businesses. They're specific, measurable values that track progress towards achieving important objectives. They are like a dashboard that shows how well a company is doing on its journey to success. By following these KPIs, businesses can make smart decisions based on real data and identify areas where they can improve.
@@ -74,7 +90,7 @@ KPIs, or Key Performance Indicators, are like goal markers for businesses. They'
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-3. **Performance and turnover Measures**
+3. **Performance and Turnover Measures**
 
 
 
