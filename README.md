@@ -48,6 +48,7 @@ KPIs, or Key Performance Indicators, are like goal markers for businesses. They'
  - Percentage of Male hire
  `= DIVIDE([count_of_male_hire],[count_of_hire])`
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 2. **Promotion Measures**
 - Total no of Promotions
@@ -69,7 +70,10 @@ KPIs, or Key Performance Indicators, are like goal markers for businesses. They'
  
 
 > [!IMPORTANT]
-> Key information users need to know to achieve their goal.
+> THESE KPIs BELONGS **FY21**, WE CAN DO THE SAME FY20 .
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 3. **Performance and turnover Measures**
 
 
