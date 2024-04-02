@@ -65,22 +65,16 @@ A calculated measured Key Performance Indicator (KPI) is a quantifiable metric t
 2. **Promotion Measures**
 - Total no of Promotions
 `= CALCULATE(COUNT('Pharma Group AG'[Promotion in FY21?]),'Pharma Group AG'[Promotion in FY21?]="Yes")`
- - Percentage of Total Promotion
- `= DIVIDE([count_employee_promoted_FY21],COUNT('Pharma Group AG'[Promotion in FY21?]))`
-
 
  - Number of Female Promotions
 `= CALCULATE(COUNT('Pharma Group AG'[Promotion in FY21?]),'Pharma Group AG'[Promotion in FY21?]="Yes",'Pharma Group AG'[Gender]="Female")`
- - Percentage of Female Promotion
- `= DIVIDE([count_female_employee_promoted_FY21],[count_employee_promoted_FY21])`
- 
 
  - Number of Male Promotions
 `= CALCULATE(COUNT('Pharma Group AG'[Promotion in FY21?]),'Pharma Group AG'[Promotion in FY21?]="Yes",'Pharma Group AG'[Gender]="Male")`
- - Percentage of Male Promotion
- `= DIVIDE([count_male_employee_promoted_FY21],[count_employee_promoted_FY21])`
- 
 
+ 
+> [!NOTE]
+> OTHER MEASURES INCLUDE PERCENTAGE VALUE OF THESE KPIs
 > [!IMPORTANT]
 > THESE KPIs BELONGS TO **FY21**, WE CAN DO THE SAME FY20 .
 
