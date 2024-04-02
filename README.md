@@ -121,3 +121,15 @@ A calculated measured Key Performance Indicator (KPI) is a quantifiable metric t
 
 - The turnover rate has been determined to be approximately 87%. A distinct pattern emerges from the analysis, specifically when examining the junior roles within the company. In these positions, the turnover rate remains relatively consistent. However, as we progress to higher seniority levels, we observe a contrasting trend. The turnover rate for males steadily increases, while for females, it steadily decreases.
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Dashboard 
+
+![Hiring](https://github.com/DivyanshNeel/PWC_Diversity_and_Inclusion_Dashboard/assets/143104174/d637bf3c-6402-471e-8308-c8805ac5c11b)
+
+
+![Promotion](https://github.com/DivyanshNeel/PWC_Diversity_and_Inclusion_Dashboard/assets/143104174/f9404271-3a01-4881-8df2-38c7fac8ce9b)
+
+
+![Performance](https://github.com/DivyanshNeel/PWC_Diversity_and_Inclusion_Dashboard/assets/143104174/d7748b79-8ad5-469d-a5c1-7ea7a1ed2054)
+
