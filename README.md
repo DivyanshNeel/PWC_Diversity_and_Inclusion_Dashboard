@@ -7,7 +7,7 @@
 - [Key Skills](#Key-Skills)
 - [Key Performance Indicators](#Key-Performance-Indicators)
   - [Calculated Measured KPIs](#Calculated-Measured-KPIs)
-    - [Hiring Measures](#Hiring_Measures)
+    - [Hiring Measures](#Hiring-Measures)
     - [Promotion Measures](#Promotion-Measures)
     - [Performance and Turnover Measures](#Performance-and-Turnover_Measures)
   
