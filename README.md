@@ -11,6 +11,8 @@
     - [Promotion Measures](#Promotion-Measures)
     - [Performance and Turnover Measures](#Performance-and-Turnover_Measures)
 - [Insights and Recommendation ](#Insights-and-Recommendation)
+- [Dashboard](#Dashboard)
+- [Conclusion](#Conclusion)
   
 
 
@@ -133,3 +135,8 @@ A calculated measured Key Performance Indicator (KPI) is a quantifiable metric t
 
 ![Performance](https://github.com/DivyanshNeel/PWC_Diversity_and_Inclusion_Dashboard/assets/143104174/d7748b79-8ad5-469d-a5c1-7ea7a1ed2054)
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Conclusion
+
+This Forage PWC HR Diversity and Inclusion Analysis project plays a crucial role in assessing and monitoring an organization's diversity and inclusion efforts. It offers valuable information for HR managers, suggests actionable recommendations for making informed choices, and helps in encouraging a workplace culture that is more diverse and inclusive.
