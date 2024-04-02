@@ -82,9 +82,15 @@ A calculated measured Key Performance Indicator (KPI) is a quantifiable metric t
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 3. **Performance and Turnover Measures**
+- Total Turnover
+  `= CALCULATE(COUNT('Pharma Group AG'[In base group for turnover FY20]),'Pharma Group AG'[In base group for turnover FY20]="Y")`
+
+- Turnover by Females
+  `= CALCULATE(COUNT('Pharma Group AG'[In base group for turnover FY20]),'Pharma Group AG'[In base group for turnover FY20]="Y",'Pharma Group AG'[Gender]="Female")`
+
+- Turnover by Males
+ `= CALCULATE(COUNT('Pharma Group AG'[In base group for turnover FY20]),'Pharma Group AG'[In base group for turnover FY20]="Y",'Pharma Group AG'[Gender]="Male")`
 
 
-
-
-
-
+> [!NOTE]
+> OTHER MEASURES INCLUDE PERCENTAGE VALUE OF THESE KPIs
