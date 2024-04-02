@@ -75,6 +75,7 @@ A calculated measured Key Performance Indicator (KPI) is a quantifiable metric t
  
 > [!NOTE]
 > OTHER MEASURES INCLUDE PERCENTAGE VALUE OF THESE KPIs
+
 > [!IMPORTANT]
 > THESE KPIs BELONGS TO **FY21**, WE CAN DO THE SAME FY20 .
 
