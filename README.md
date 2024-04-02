@@ -10,7 +10,7 @@
     - [Hiring Measures](#Hiring-Measures)
     - [Promotion Measures](#Promotion-Measures)
     - [Performance and Turnover Measures](#Performance-and-Turnover_Measures)
-- [Insights and Recommendation ](Insights-and-Recommendation)
+- [Insights and Recommendation ](#Insights-and-Recommendation)
   
 
 
