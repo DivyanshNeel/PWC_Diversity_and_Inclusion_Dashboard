@@ -5,6 +5,8 @@
 - [Discription](#Discription)
 - [Project Background](#Project-Background)
 - [Key Learning Skills](#Key-Learning-Skills)
+- [Data Source](#Data-Source )
+- [Tech Stack](#Tech-Stack)
 - [Key Performance Indicators](#Key-Performance-Indicators)
   - [Calculated Measured KPIs](#Calculated-Measured-KPIs)
     - [Hiring Measures](#Hiring-Measures)
