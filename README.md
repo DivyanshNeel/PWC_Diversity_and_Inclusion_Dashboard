@@ -2,7 +2,7 @@
 # Diversity & Inclusion Dashboard
 
 # Table of Content
-- [Discription](#Discription)
+- [Description](#Description)
 - [Project Background](#Project-Background)
 - [Key Learning Skills](#Key-Learning-Skills)
 - [Data Source](#Data-Source )
@@ -21,7 +21,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Discription
+# Description
 This project tackled the challenge of improving gender balance in a telecom client's executive management. I leveraged  **data analysis techniques**  to assess their diversity and inclusion efforts. This involved **creating a Power BI dashboard** to visualize key metrics and **designing KPIs**. The project aimed to provide data-driven insights to facilitate informed decision-making.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
