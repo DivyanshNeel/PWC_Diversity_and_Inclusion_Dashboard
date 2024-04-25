@@ -53,10 +53,7 @@ PwC provided the dataset as an excel file from the Human Resources department of
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Tech Stack
-![Microsoft Excel Badge](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=Microsoft%20Excel&labelColor=black)    
-![Static Badge](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=Power%20BI&labelColor=black)     
-![Static Badge](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=Power%20BI&labelColor=black)    
-![Power Query Badge](https://img.shields.io/badge/Power_Query-F3C300?style=for-the-badge&logo=Power%20Query&labelColor=F3C300)
+![Microsoft Excel Badge](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=Microsoft%20Excel&labelColor=black) ![Static Badge](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=Power%20BI&labelColor=black) ![Static Badge](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=Power%20BI&labelColor=black) ![Power Query Badge](https://img.shields.io/badge/Power_Query-F3C300?style=for-the-badge&logo=Power%20Query&labelColor=F3C300)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
